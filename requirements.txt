@@ -1,0 +1,28 @@
+# general jupyter things
+ipympl
+ipywidgets>=8.0
+tqdm
+
+# sunpy ecosystem + solo packages
+sunpy[all]>=6.0.1
+sunpy-soar         
+stixpy
+streamtracer
+sunraster
+sunkit-magex
+sunkit-image
+solo_epd_loader
+seppy 
+
+scikit-learn
+watroo
+
+# signal processing
+PyEMD             
+pycwt            
+powerlaw
+pwlf             
+
+#in-situ things
+pyspedas
+spacepy
