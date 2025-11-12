@@ -6,9 +6,10 @@ We aim to better understand how solar flares and eruptive events accelerate part
 We will leverage Solar Orbiter’s combined remote sensing (e.g., EUV, X-ray, coronagraph) and in-situ (particles, fields, waves) capabilities to track the full chain: energy release → flare ribbons/footpoints → CME launch → particle acceleration/transport → in-situ signatures.
 
 **Team mentors**  
-- Laura Hayes (DIAS, Ireland)  
-- Nils Janitzek (ESA/ESAC)  
+- Laura Hayes (DIAS, Ireland)
 - Laura Rodríguez García (ESA/ESAC)  
+- Nils Janitzek (ESA/ESAC)  
+
 
 **Team members**  
 - Annamaria Fedeli (University of Turku)  
