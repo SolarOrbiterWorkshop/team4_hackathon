@@ -2,7 +2,7 @@
 **Solar Orbiter Hackathon (17-21 Nov 2025)**  
 
 **Team goal**  
-We aim to better understand how solar flares and eruptive events accelerate particles at the Sun, and how those signatures evolve through the heliosphere — from remote sensing of the flare/CME to in-situ detection of energetic particles and solar wind/magnetic structures.  
+We aim to better understand how solar flares and eruptive events accelerate particles at the Sun, and how those signatures evolve through the heliosphere, from remote sensing of the flare/CME to in-situ detection of energetic particles and solar wind/magnetic structures.  
 We will leverage Solar Orbiter’s combined remote sensing (e.g., EUV, X-ray, coronagraph) and in-situ (particles, fields, waves) capabilities to track the full chain: energy release → flare ribbons/footpoints → CME launch → particle acceleration/transport → in-situ signatures.
 
 **Team mentors**  
